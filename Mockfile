@@ -1,0 +1,14 @@
+sourceryCommand: mint run krzysztofzablocki/Sourcery@1.8.0 sourcery
+sourceryTemplate: null
+
+EMSTests:
+  sources:
+    include:
+    - ./EMS
+  output: ./Mock.generated.swift
+  targets:
+  - EMSTests
+  testable:
+  - EMS
+  import:
+  - Foundation

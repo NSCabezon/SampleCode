@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  EMS
+
+  Created by nscabezon on 15/2/22.
+  
+*/
+
+// Home View
+
+"home_screen__title" = "Home";
+"home_screen__live_data" = "Live data";
+"home_screen__discharge_title_label" = "Total discharged";
+"home_screen__charge_title_label" = "Total charged";
+"home_screen__statistics_title" = "Use percentage";
+
+// Detail View
+
+"detail_screen__title" = "Detail";
+"detail_screen__hint_label" = "This chart shows kW generated from both grid and solar sources";
